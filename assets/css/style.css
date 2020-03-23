@@ -1,0 +1,14 @@
+body {
+	font-family: 'Montserrat', sans-serif;
+}
+
+
+.login_form {
+	width: 300px;
+	margin: 30px auto;
+	display: block;
+	min-height: 220px;
+	padding: 20px;
+	border: 1px solid purple;
+	border-radius: 3px
+}
